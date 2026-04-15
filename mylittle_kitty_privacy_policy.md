@@ -2,13 +2,13 @@
 
 最后更新日期：2026年4月11日
 
-欢迎使用《Super Battle Stickman Invasion》（以下简称“本应用”）。本隐私政策旨在向您说明我们如何访问、收集、使用和分享用户数据。
+欢迎使用《My Little Kitty》（以下简称“本应用”）。本隐私政策旨在向您说明我们如何访问、收集、使用和分享用户数据。
 
 ----------------------------------------
 1. 应用与开发者信息
 ----------------------------------------
 
-应用名称：Super Battle Stickman Invasion
+应用名称：My Little Kitty
 开发者：linchangfeng
 联系邮箱：lcfenggame@gmail.com
 
